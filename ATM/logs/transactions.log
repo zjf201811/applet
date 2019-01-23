@@ -1,0 +1,14 @@
+2018-12-26 22:43:02,817 - transaction - INFO - account:1234   action:repay   amount:11.0    interest:0.0  balance:1012.7999999999843
+2018-12-26 22:43:10,490 - transaction - INFO - account:1234   action:repay   amount:11.0    interest:0.0  balance:1023.7999999999843
+2018-12-26 22:50:20,079 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:1021.6999999999844
+2018-12-26 22:50:23,472 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:1020.6499999999844
+2018-12-26 22:50:25,205 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:1019.5999999999844
+2018-12-26 22:50:26,332 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:1018.5499999999845
+2018-12-26 22:50:27,292 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:1017.4999999999845
+2018-12-26 22:52:07,032 - transaction - INFO - account:1234   action:repay   amount:10000.0    interest:0.0  balance:11017.499999999985
+2018-12-27 09:00:27,940 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:11016.449999999986
+2018-12-27 09:00:30,612 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:11015.399999999987
+2018-12-27 09:00:31,657 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:11014.349999999988
+2018-12-27 09:00:32,501 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:11013.299999999988
+2018-12-27 09:13:46,406 - transaction - INFO - account:1234   action:withdraw   amount:122.0    interest:6.1000000000000005  balance:10885.199999999988
+2019-01-18 09:28:30,891 - transaction - INFO - account:1234   action:withdraw   amount:1.0    interest:0.05  balance:10884.149999999989
